@@ -38,7 +38,7 @@ $(function(){
 		<td><input type="text" name="zhuozhe"  id ="zhuozhe"></td>
 	</tr>
 	<tr>
-		<th>购买时间</th>
+		<th>购买dd时间</th>
 		<td><input type="text" name="birthday"  id ="birthday"></td>
 	</tr>
 	<tr>
